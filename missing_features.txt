@@ -1,0 +1,10 @@
+#when user subscribes with a existing plan the start date should be from the end date of existing plan
+#domain name for generating user subdomain
+#auth 
+#creaed a image url table
+#renew response_limit every month handling 
+#update the response_limit when user subscribe and when subscribtion finish
+#implement question metrics
+
+
+
